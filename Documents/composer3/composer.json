@@ -1,0 +1,17 @@
+{
+    "name": "yueyuan/composer3",
+    "autoload": {
+        "psr-4": {
+            "Yueyuan\\Composer3\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "yy0416",
+            "email": "wheathare@gmail.com"
+        }
+    ],
+    "require": {
+        "gipetto/cowsay": "^1.1"
+    }
+}
